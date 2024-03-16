@@ -1,0 +1,4 @@
+#pip install git+https://github.com/KurimuzonAkuma/pyrogram.git@v2.1.15 --force-reinstall
+pyromod==3.1.6
+motor==3.3.2
+colorama==0.4.6 
